@@ -1,0 +1,40 @@
+{
+    "users": [{
+      "id_user" : 1,
+      "name": "Pepe",
+      "apellidos" : "Apellido",
+      "telefono" : 788989963,
+      "age": 24,
+      "email": "pepe@email.com",
+      "cp" : 2909,
+      "direccion" : "Calle Test",
+      "direccion2" : " ",
+      "ciudad": "Malaga",
+      "area" : " "
+
+
+    }, {
+        "id_user" : 2,
+      "name": "Carlos",
+      "age": 21,
+      "email": "carlos@email.com"
+    }, {
+        "id_user" : 3,
+      "name": "Raja Tamil",
+      "age": 31,
+      "email": "rtamil@email.com"
+    }, {
+        "id_user" : 4,
+      "name": "Sundar Pichai",
+      "age": 21,
+      "email": "spichai@email.com"
+    },
+    {
+      "id_user" : 5,
+    "name": "Gabri",
+    "age": 21,
+    "email": "Gabri@email.com"
+  }]
+  }
+
+  
